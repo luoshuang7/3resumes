@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    float: left;
+    background-color: mediumspringgreen;
+    width: 200px;
+    height: 700px;
+    margin-right: 10px;
+    text-align: center;
+    padding-top: 20px;
+}
+.main{
+    float: left;
+    height: 700px;
+
+    vertical-align: middle;
+}
+section{
+    margin-top: 20px;
+}

@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+span{
+    margin-right: 20px;
+}
+b{
+    margin-right: 5px;
+}
+h1{
+    height: 50px;
+    width: 990px;
+    background-color: rgb(69, 72, 75);
+    padding-left: 10px;
+    color: snow;
+}
+.main{
+    width: 1000px;
+}
+article{
+    height: 132px;
+    
+}
+article section{
+    
+    float: left;
+    /* margin-right: 10px; */
+    height: 130px;
+    border-bottom: 2px solid rgb(203, 208, 214);
+    border-right: 2px solid rgb(203, 208, 214);
+    /* position: absolute; */
+}
+article section h3{
+    width: 100px;
+    text-align: center;
+    line-height: 130px;
+    background-color: rgb(203, 208, 214);
+    border-bottom: 2px solid white;
+}
+.second{
+    padding-left: 10px;
+    width: 886px;
+}
+.project h3{
+    border-bottom: 2px solid rgb(203, 208, 214);
+}
